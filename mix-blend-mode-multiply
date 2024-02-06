@@ -1,0 +1,2 @@
+/* Quita el fondo de imagenes y las funde con el color de fondo */
+mix-blend-mode: multiply;
